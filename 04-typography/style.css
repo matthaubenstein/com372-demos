@@ -1,0 +1,26 @@
+body {
+	font-family: "Georgia", "Times New Roman", serif;
+	font-size: 100%;
+}
+
+h1 {
+	font-size: 3em;
+	font-family: 'Lobster', cursive;
+}
+
+h2{ 
+	font-size: 1.5em;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.Nora {
+	background-color: gray;
+	font-family: 'Libre Baskerville', serif;
+}
+
+.Helmer {
+	background-color: blue;
+	font-family: 'Kite One', sans-serif;
+	font-size: .95em;
+}
