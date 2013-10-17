@@ -1,0 +1,52 @@
+body {
+	box-sizing: border-box;
+	-mox-box-sizing: border-box;
+	font-family: "Lato", san-serif;
+	font-size: 100%;
+	background-color: #1abc9c;
+	color: #bdc3c7;
+	
+}
+
+#container {
+	width: 960px;
+	margin: 0 auto 0 auto;
+}
+
+header {
+	margin-top: 5%;
+	margin-bottom: 2.5%;
+}
+
+section {
+	margin-top: 2.5%;
+	margin-bottom: 2.5%;
+	background-color: #8e44ad;
+	padding: 0 0 2% 0;
+	box-shadow: 2px 2px 4px #333;
+}
+
+h1 {
+	font-size: 400%;
+}
+
+h2 {
+	font-size: 250%;
+	background-color: #d35400;	
+}
+
+h3 {
+	font-size: 175%;
+	margin-top: 2%;
+	margin-bottom:1%;
+	padding-left: 2%;
+}
+
+p {
+	padding-left: 2%;
+}
+
+.awards {
+	list-style-type: disc;
+	padding-left: 4%;
+}
